@@ -35,7 +35,7 @@ text{font-family:'BIOS','VT323','Courier New',monospace;white-space:pre}
 <text x="28.0" y="216.0" font-size="20" fill="#9a6a00" textLength="536.0" lengthAdjust="spacing">&gt; My part: the ML method, a one-class anomaly detector (autoencoder</text>
 <text x="28.0" y="240.0" font-size="20" fill="#9a6a00" textLength="224.0" lengthAdjust="spacing">+ self-supervised learning).</text>
 <line x1="28" y1="268" x2="572" y2="268" stroke="#3a2900" stroke-width="2"/>
-<text x="572.0" y="304.0" font-size="18" fill="#9a6a00" textLength="216.0" lengthAdjust="spacing" text-anchor="end">2 stars  last write 2026-10-30</text>
+<text x="572.0" y="304.0" font-size="18" fill="#9a6a00" textLength="216.0" lengthAdjust="spacing" text-anchor="end">2 stars  last write 2026-11-01</text>
 <rect x="28.0" y="284" width="59.2" height="28" fill="none" stroke="#9a6a00" stroke-width="1.5"/>
 <text x="36.0" y="304.0" font-size="18" fill="#ffb000" textLength="43.2" lengthAdjust="spacing">Python</text>
 <rect x="95.2" y="284" width="138.4" height="28" fill="none" stroke="#9a6a00" stroke-width="1.5"/>
