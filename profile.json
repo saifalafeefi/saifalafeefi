@@ -1,0 +1,76 @@
+{
+  "username": "saifalafeefi",
+  "name": "Saif Alafeefi",
+  "os_name": "SAIF-OS",
+  "role": "Computer Science",
+  "org": "Khalifa University",
+  "greeting": "hello, I'm Saif.",
+  "tagline": "I build where hardware meets software: sensors and Raspberry Pis, on-device ML, and games you can put on a real table in AR.",
+
+  "featured": [
+    {
+      "repo": "2026-COSC497-SDP-Group-07",
+      "id": "edge-ai-monitor",
+      "port": "USB0",
+      "title": "Edge-AI Health Monitor",
+      "kind": "on-device ML",
+      "summary": "A low-cost, privacy-preserving early-warning system that runs fully on-device and flags physiological changes for a human to review.",
+      "role": "My part: the ML method, a one-class anomaly detector (autoencoder + self-supervised learning).",
+      "tags": ["Python", "anomaly detection", "edge AI"]
+    },
+    {
+      "repo": "COSC495-Project-Parallax",
+      "id": "carbon-conquest",
+      "port": "USB1",
+      "title": "Carbon Conquest XR",
+      "kind": "Unity / AR game",
+      "summary": "A sustainability strategy game: place a holographic Earth on a real table and keep its regions alive, one policy card at a time.",
+      "role": "Team of three. Android AR, also playable on desktop.",
+      "tags": ["C#", "Unity", "AR"]
+    },
+    {
+      "repo": "Pantry-Bot",
+      "id": "pantry-bot",
+      "port": "GPIO",
+      "title": "PantryBot",
+      "kind": "Raspberry Pi",
+      "summary": "A Raspberry Pi kitchen assistant with a Flutter companion app: pantry items, expiry dates, recipes, and shared grocery lists.",
+      "role": null,
+      "tags": ["Dart", "Flutter", "Raspberry Pi"]
+    },
+    {
+      "repo": "c4_rust_jumeirah",
+      "id": "c4-rust",
+      "port": "PCI0",
+      "title": "C4 in Rust",
+      "kind": "compiler port",
+      "summary": "The C4 self-hosting C compiler, rewritten in Rust for Principles of Programming Languages.",
+      "role": null,
+      "tags": ["Rust", "compilers"]
+    }
+  ],
+
+  "more": [
+    { "repo": "KU-Attendance-System", "text": "Attendance tracking with hand-held RFID readers, built for Khalifa University." },
+    { "repo": "2D-Dice-Rolling-Simulator", "text": "Physics-based dice rolling with pygame and pymunk." },
+    { "repo": "Online-Food-Delivery-System", "text": "Restaurants, customers, and drivers on a Python + MySQL backend, with live order tracking." },
+    { "repo": "Saif-Easy-FFMPEG", "text": "A small FFmpeg front end tailored to my own workflow." },
+    { "repo": "windows-display-switch", "text": "PowerShell script that turns the displays off while the PC keeps running." }
+  ],
+
+  "stack": {
+    "languages": ["Python", "C#", "Dart", "Rust", "Java", "PowerShell"],
+    "hardware": ["Raspberry Pi", "RFID", "physiological sensors"],
+    "ml": ["anomaly detection", "autoencoders", "self-supervised learning"],
+    "games-xr": ["Unity", "Android AR", "pygame", "pymunk"],
+    "apps-data": ["Flutter", "MySQL", "FFmpeg"]
+  },
+
+  "contact": [
+    { "label": "GitHub", "url": "https://github.com/saifalafeefi" },
+    { "label": "LinkedIn", "url": "" },
+    { "label": "Email", "url": "" }
+  ],
+
+  "ignore_languages": ["ShaderLab", "HLSL", "GLSL", "HTML", "CSS", "CMake", "C++", "Swift", "Kotlin", "Objective-C", "Batchfile", "Shell", "Makefile", "Ruby", "Jupyter Notebook"]
+}

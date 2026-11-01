@@ -1,0 +1,99 @@
+{
+  "created_at": "2022-08-28",
+  "repo_count": 13,
+  "languages": {
+    "Python": 1499131,
+    "C#": 1261364,
+    "C": 301742,
+    "Dart": 270402,
+    "Rust": 215304,
+    "Java": 127353,
+    "JavaScript": 80876,
+    "PowerShell": 28141
+  },
+  "last_commit": {
+    "repo": "2026-COSC497-SDP-Group-07",
+    "date": "2026-10-30",
+    "message": "add hr + motion context model; test daily life on ppg-dalia"
+  },
+  "repos": {
+    "2026-COSC497-SDP-Group-07": {
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-10-30",
+      "url": "https://github.com/saifalafeefi/2026-COSC497-SDP-Group-07"
+    },
+    "2D-Dice-Rolling-Simulator": {
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2023-07-25",
+      "url": "https://github.com/saifalafeefi/2D-Dice-Rolling-Simulator"
+    },
+    "c4_rust_jumeirah": {
+      "language": "Rust",
+      "stars": 0,
+      "pushed_at": "2025-05-04",
+      "url": "https://github.com/saifalafeefi/c4_rust_jumeirah"
+    },
+    "comp-sec-proj-fall-2025": {
+      "language": "Java",
+      "stars": 0,
+      "pushed_at": "2025-11-25",
+      "url": "https://github.com/saifalafeefi/comp-sec-proj-fall-2025"
+    },
+    "COSC495-Assignment1-Parallax": {
+      "language": "C#",
+      "stars": 2,
+      "pushed_at": "2026-02-12",
+      "url": "https://github.com/saifalafeefi/COSC495-Assignment1-Parallax"
+    },
+    "COSC495-Assignment2-Parallax": {
+      "language": "C#",
+      "stars": 0,
+      "pushed_at": "2026-03-04",
+      "url": "https://github.com/saifalafeefi/COSC495-Assignment2-Parallax"
+    },
+    "COSC495-Project-Parallax": {
+      "language": "C#",
+      "stars": 1,
+      "pushed_at": "2026-04-29",
+      "url": "https://github.com/saifalafeefi/COSC495-Project-Parallax"
+    },
+    "KU-Attendance-System": {
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2024-11-27",
+      "url": "https://github.com/saifalafeefi/KU-Attendance-System"
+    },
+    "Online-Food-Delivery-System": {
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2025-04-25",
+      "url": "https://github.com/saifalafeefi/Online-Food-Delivery-System"
+    },
+    "Pantry-Bot": {
+      "language": "Dart",
+      "stars": 2,
+      "pushed_at": "2025-09-02",
+      "url": "https://github.com/saifalafeefi/Pantry-Bot"
+    },
+    "parallel-proj-fall-2025": {
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2025-11-25",
+      "url": "https://github.com/saifalafeefi/parallel-proj-fall-2025"
+    },
+    "Saif-Easy-FFMPEG": {
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-29",
+      "url": "https://github.com/saifalafeefi/Saif-Easy-FFMPEG"
+    },
+    "windows-display-switch": {
+      "language": "PowerShell",
+      "stars": 0,
+      "pushed_at": "2025-11-21",
+      "url": "https://github.com/saifalafeefi/windows-display-switch"
+    }
+  }
+}
