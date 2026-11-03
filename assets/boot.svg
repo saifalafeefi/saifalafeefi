@@ -67,8 +67,8 @@ text{font-family:'BIOS','VT323','Courier New',monospace;white-space:pre}
 <rect x="295.2" y="324.4" width="361.8" height="23.1" fill="#0d0a04" style="transform:scaleX(0);transform-box:fill-box;transform-origin:right;animation:wipe 0.35s steps(41) 5.10s backwards"/>
 <text x="656.0" y="342.0" font-size="22" fill="#ffb000" textLength="123.2" lengthAdjust="spacing" style="animation:hide 5.47s step-end"> compiler port</text>
 <text x="796.8" y="342.0" font-size="22" fill="#ffe2a0" textLength="17.6" lengthAdjust="spacing" style="animation:hide 5.50s step-end">OK</text>
-<text x="40.0" y="386.0" font-size="22" fill="#ffb000" textLength="475.2" lengthAdjust="spacing" style="animation:hide 5.80s step-end">Last write     : 2026-11-01  2026-COSC497-SDP-Group-07</text>
-<text x="189.6" y="413.5" font-size="22" fill="#9a6a00" textLength="633.6" lengthAdjust="spacing" style="animation:hide 5.95s step-end">&quot;read the rev f accelerometer; master and board score hr against motion&quot;</text>
+<text x="40.0" y="386.0" font-size="22" fill="#ffb000" textLength="475.2" lengthAdjust="spacing" style="animation:hide 5.80s step-end">Last write     : 2026-11-03  2026-COSC497-SDP-Group-07</text>
+<text x="189.6" y="413.5" font-size="22" fill="#9a6a00" textLength="624.8" lengthAdjust="spacing" style="animation:hide 5.95s step-end">&quot;replay wesad subjects as boards; the fleet demo runs with no hardware&quot;</text>
 <text x="40.0" y="469.5" font-size="36" fill="#ffe2a0" textLength="259.2" lengthAdjust="spacing">&gt; hello, I&#x27;m Saif.</text>
 <rect x="40.0" y="440.7" width="260.2" height="37.8" fill="#0d0a04" style="transform:scaleX(0);transform-box:fill-box;transform-origin:right;animation:wipe 1.35s steps(18) 6.60s backwards"/>
 <rect x="40.0" y="447.2" width="14.4" height="24.5" fill="#ffe2a0" style="transform:translateX(263.5px);animation:hide 6.60s step-end,type 1.35s steps(18) 6.60s backwards,blink 1.06s step-end 7.95s infinite"/>
