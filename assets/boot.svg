@@ -45,7 +45,7 @@ text{font-family:'BIOS','VT323','Courier New',monospace;white-space:pre}
 <text x="189.6" y="160.5" font-size="22" fill="#ffe2a0" textLength="35.2" lengthAdjust="spacing" style="animation:hide 2.33s step-end">0013</text>
 <text x="224.8" y="160.5" font-size="22" fill="#ffb000" textLength="167.2" lengthAdjust="spacing" style="animation:hide 2.40s step-end"> repos  8 languages</text>
 <text x="409.6" y="160.5" font-size="22" fill="#ffe2a0" textLength="17.6" lengthAdjust="spacing" style="animation:hide 2.55s step-end">OK</text>
-<text x="40.0" y="188.0" font-size="22" fill="#ffb000" textLength="404.8" lengthAdjust="spacing" style="animation:hide 2.75s step-end">Uptime         : 4y 2m  (online since 2022-08)</text>
+<text x="40.0" y="188.0" font-size="22" fill="#ffb000" textLength="404.8" lengthAdjust="spacing" style="animation:hide 2.75s step-end">Uptime         : 4y 3m  (online since 2022-08)</text>
 <text x="40.0" y="232.0" font-size="22" fill="#ffb000" textLength="184.8" lengthAdjust="spacing" style="animation:hide 3.10s step-end">Detecting devices ...</text>
 <text x="40.0" y="259.5" font-size="22" fill="#ffb000" textLength="255.2" lengthAdjust="spacing" style="animation:hide 3.40s step-end">  [USB0]  edge-ai-monitor    </text>
 <text x="295.2" y="259.5" font-size="22" fill="#9a6a00" textLength="369.6" lengthAdjust="spacing" style="animation:hide 3.40s step-end">..........................................</text>

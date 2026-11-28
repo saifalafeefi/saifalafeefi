@@ -45,7 +45,7 @@ text{font-family:'BIOS','VT323','Courier New',monospace;white-space:pre}
 <text x="112.0" y="145.0" font-size="20" fill="#ffe2a0" textLength="32.0" lengthAdjust="spacing" style="animation:hide 2.33s step-end">0013</text>
 <text x="144.0" y="145.0" font-size="20" fill="#ffb000" textLength="48.0" lengthAdjust="spacing" style="animation:hide 2.40s step-end"> repos</text>
 <text x="208.0" y="145.0" font-size="20" fill="#ffe2a0" textLength="16.0" lengthAdjust="spacing" style="animation:hide 2.55s step-end">OK</text>
-<text x="24.0" y="170.0" font-size="20" fill="#ffb000" textLength="128.0" lengthAdjust="spacing" style="animation:hide 2.75s step-end">Uptime   : 4y 2m</text>
+<text x="24.0" y="170.0" font-size="20" fill="#ffb000" textLength="128.0" lengthAdjust="spacing" style="animation:hide 2.75s step-end">Uptime   : 4y 3m</text>
 <text x="24.0" y="210.0" font-size="20" fill="#ffb000" textLength="168.0" lengthAdjust="spacing" style="animation:hide 3.10s step-end">Detecting devices ...</text>
 <text x="24.0" y="235.0" font-size="20" fill="#ffb000" textLength="200.0" lengthAdjust="spacing" style="animation:hide 3.40s step-end"> [USB0] edge-ai-monitor  </text>
 <text x="224.0" y="235.0" font-size="20" fill="#9a6a00" textLength="120.0" lengthAdjust="spacing" style="animation:hide 3.40s step-end">...............</text>
